@@ -19,3 +19,4 @@ $users []= "Жан-Клод Ван Дамм";
 - https://www.sourcetreeapp.com
 - https://getcomposer.org/download/
 - https://habr.com/ru/post/145946/
+- https://packagist.org
