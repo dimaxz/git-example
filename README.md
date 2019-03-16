@@ -2,15 +2,17 @@
 
 ## Задание 1. Клонирование репозитория, добавление изменений в отдельной ветке, созданние запроса на слияние
 1. Зарегистрироваться на github.com
-2. Скачать и установить tortoise Git для windows https://tortoisegit.org
-3. Склонировать (clone) текущий репозиторий git@github.com:dimaxz/git-example.git в любой каталог на вашем компьютере
-4. Создать ветку (create branch) с указанием вашего имени, например feature/add-dima, переключится на нее (switch branch)
-5. Добавить в файл index.php в массив $users ваше имя, пример:
+2. <b>Подтвердить свой аккаунт перейдя по ссылке в пришедшем на почту письме</b>
+3. <b>Выслать мне свой логин или email аккаунта от github (в телеграмм)</b>
+4. Скачать и установить tortoise Git для windows https://tortoisegit.org
+5. Склонировать (clone) текущий репозиторий git@github.com:dimaxz/git-example.git в любой каталог на вашем компьютере
+6. Создать ветку (create branch) с указанием вашего имени, например feature/add-dima, переключится на нее (switch branch)
+7. Добавить в файл index.php в массив $users ваше имя, пример:
 ```
 $users []= "Жан-Клод Ван Дамм";
 ```
 6. Закомитить изменения (commit) и отправить ветку (push) в репозиторий
-7. Зайти на страницу с перечнем запросов на слияние репозитория https://github.com/dimaxz/git-example/pulls и создать запрос на слияние (create pull request) своих изменений в мастер ветку
+7. Зайти на страницу с перечнем запросов на слияние репозитория https://github.com/dimaxz/git-example/pulls и создать запрос на слияние (<b>compare and pull request</b>) своих изменений в мастер ветку
 
 ### Полезное
 - https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html
