@@ -42,6 +42,7 @@ class User
         $users [] = "Сморкалова Д.С.";
         $users []= "Пенкин Ф.В." ;
         $users []= "Коршунов А.В.";
+        $users []= "Белорыбкина Е.В.";
         foreach($users as $userName){
             $dataUsers[]= (new User())->setName($userName);
         }
